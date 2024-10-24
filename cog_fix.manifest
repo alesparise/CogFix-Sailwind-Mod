@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2230192099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53e48808febb38da2a8026c6b6f68d95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b1c4c89ef90976e0af8e967bcb404a52
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/CogFix/cog_hull_fixed.asset
+Dependencies: []
