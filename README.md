@@ -1,0 +1,1 @@
+Test mod, read the posts on the sailwind discords for some informations on how this was made. There is a working release in the release section but it's not meant for gameplay. This is on github mostly for future reference on how to edit a boat mesh.
